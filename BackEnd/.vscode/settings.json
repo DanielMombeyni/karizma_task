@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "corsheaders"
+    ],
+    "cSpell.ignoreWords": [
+        "simplejwt",
+        "viewset",
+        "viewsets"
+    ]
+}
